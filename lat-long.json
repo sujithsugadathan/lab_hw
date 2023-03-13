@@ -6,7 +6,7 @@
     "numeric": 8,
     "latitude": 41,
     "longitude": 20,
-    "cases": "272210.0"
+    "cases": "334497.0"
   },
   {
     "country": "Algeria",
@@ -42,7 +42,7 @@
     "numeric": 51,
     "latitude": 40,
     "longitude": 45,
-    "cases": "421341.0"
+    "cases": "447308.0"
   },
   {
     "country": "Australia",
@@ -78,7 +78,7 @@
     "numeric": 44,
     "latitude": 24.25,
     "longitude": -76,
-    "cases": "33171.0"
+    "cases": "711768.0"
   },
   {
     "country": "Bangladesh",
@@ -150,7 +150,7 @@
     "numeric": 70,
     "latitude": 44,
     "longitude": 18,
-    "cases": "372139.0"
+    "cases": "401729.0"
   },
   {
     "country": "Botswana",
@@ -159,7 +159,7 @@
     "numeric": 72,
     "latitude": -22,
     "longitude": 24,
-    "cases": "263950.0"
+    "cases": "329758.0"
   },
   {
     "country": "Brazil",
@@ -267,7 +267,7 @@
     "numeric": 156,
     "latitude": 35,
     "longitude": 105,
-    "cases": "111195.0"
+    "cases": "503302.0"
   },
   {
     "country": "Colombia",
@@ -339,7 +339,7 @@
     "numeric": 196,
     "latitude": 35,
     "longitude": 33,
-    "cases": "333238.0"
+    "cases": "652386.0"
   },
   {
     "country": "Czechia",
@@ -375,7 +375,7 @@
     "numeric": 214,
     "latitude": 19,
     "longitude": -70.6667,
-    "cases": "575949.0"
+    "cases": "660790.0"
   },
   {
     "country": "Ecuador",
@@ -393,7 +393,7 @@
     "numeric": 818,
     "latitude": 27,
     "longitude": 30,
-    "cases": "490969.0"
+    "cases": "515759.0"
   },
   {
     "country": "El Salvador",
@@ -429,7 +429,7 @@
     "numeric": 233,
     "latitude": 59,
     "longitude": 26,
-    "cases": "515708.0"
+    "cases": "615423.0"
   },
   {
     "country": "Ethiopia",
@@ -438,7 +438,7 @@
     "numeric": 231,
     "latitude": 8,
     "longitude": 38,
-    "cases": "468966.0"
+    "cases": "500163.0"
   },
   {
     "country": "Falkland Islands",
@@ -591,7 +591,7 @@
     "numeric": 340,
     "latitude": 15,
     "longitude": -86.5,
-    "cases": "413699.0"
+    "cases": "472301.0"
   },
   {
 		"country": "Hong Kong",
@@ -726,7 +726,7 @@
     "numeric": 404,
     "latitude": 1,
     "longitude": 38,
-    "cases": "323075.0"
+    "cases": "342937.0"
   },
   {
     "country": "North Korea",
@@ -753,7 +753,7 @@
     "numeric": 414,
     "latitude": 29.3375,
     "longitude": 47.6581,
-    "cases": "623159.0"
+    "cases": "663860.0"
   },
   {
     "country": "Kyrgyzstan",
@@ -816,7 +816,7 @@
     "numeric": 434,
     "latitude": 25,
     "longitude": 17,
-    "cases": "497958.0"
+    "cases": "507187.0"
   },
   {
     "country": "Lithuania",
@@ -834,7 +834,7 @@
     "numeric": 442,
     "latitude": 49.75,
     "longitude": 6.1667,
-    "cases": "186360.0"
+    "cases": "297757.0"
   },
   {
     "country": "North Macedonia",
@@ -843,7 +843,7 @@
     "numeric": 807,
     "latitude": 41.8333,
     "longitude": 22,
-    "cases": "299642.0"
+    "cases": "346852.0"
   },
   {
     "country": "Madagascar",
@@ -915,7 +915,7 @@
     "numeric": 498,
     "latitude": 47,
     "longitude": 29,
-    "cases": "505393.0"
+    "cases": "611140.0"
   },
   {
     "country": "Mongolia",
@@ -960,7 +960,7 @@
     "numeric": 104,
     "latitude": 22,
     "longitude": 98,
-    "cases": "598446.0"
+    "cases": "633955.0"
   },
   {
     "country": "Namibia",
@@ -1050,7 +1050,7 @@
     "numeric": 512,
     "latitude": 21,
     "longitude": 57,
-    "cases": "384818.0"
+    "cases": "399449.0"
   },
   {
     "country": "Pakistan",
@@ -1068,7 +1068,7 @@
     "numeric": 275,
     "latitude": 32,
     "longitude": 35.25,
-    "cases": "649971.0"
+    "cases": "621008.0"
   },
   {
     "country": "Panama",
@@ -1140,7 +1140,7 @@
     "numeric": 634,
     "latitude": 25.5,
     "longitude": 51.25,
-    "cases": "358253.0"
+    "cases": "495090.0"
   },
   {
     "country": "Romania",
@@ -1266,7 +1266,7 @@
     "numeric": 144,
     "latitude": 7,
     "longitude": 81,
-    "cases": "650140.0"
+    "cases": "672041.0"
   },
   {
     "country": "Sudan",
@@ -1482,7 +1482,7 @@
     "numeric": 862,
     "latitude": 8,
     "longitude": -66,
-    "cases": "516817.0"
+    "cases": "552210.0"
   },
   {
     "country": "Vietnam",
@@ -1518,7 +1518,7 @@
     "numeric": 894,
     "latitude": -15,
     "longitude": 30,
-    "cases": "313821.0"
+    "cases": "343135.0"
   },
   {
     "country": "Zimbabwe",
