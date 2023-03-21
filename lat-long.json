@@ -622,6 +622,7 @@
   },
   {
     "country": "India",
+    "alpha2": "IND",
     "alpha3": "IND",
     "numeric": 356,
     "latitude": 20,
